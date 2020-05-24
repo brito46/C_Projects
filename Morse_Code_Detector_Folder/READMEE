@@ -1,0 +1,3 @@
+**README**
+
+This application detects knocks in a specific pattern to unlock a 12V lock. This lock unlocks at the specific pattern of scalar multiples of the pattern. This application was powered with a 10V power supply with an NMOS transistor. This application was written in C using PSOC creator for an embedded system project.
